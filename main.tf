@@ -6,7 +6,7 @@ resource "aws_instance" "demo_tf_instance" {
     instance_type = "t2.medium"
 tag = {
 
-Name = "demo_tf_instance"
+Name = "demo_tf_ok"
 
 
 }
